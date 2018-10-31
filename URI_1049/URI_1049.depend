@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540854146 source:c:\users\martmanhunter\desktop\uri_solved\uri_1049\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
