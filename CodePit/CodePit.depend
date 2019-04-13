@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553734406 source:c:\users\martmanhunter\desktop\codepit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553775892 source:c:\users\martmanhunter\desktop\uri_solved\codepit\main.c
+	<stdio.h>
+	<stdlib.h>
+
